@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/culinary-app/static/css/main.e6c13ad2.css",
+    "main.js": "/culinary-app/static/js/main.b36a4980.js",
+    "static/js/787.5a06f92f.chunk.js": "/culinary-app/static/js/787.5a06f92f.chunk.js",
+    "static/media/landscape.svg": "/culinary-app/static/media/landscape.a25d02db04eb9ca05ccc2b82e69ff7dd.svg",
+    "static/media/portrait.svg": "/culinary-app/static/media/portrait.4601e336c5cbff3a591c26f1dd57fd63.svg",
+    "index.html": "/culinary-app/index.html",
+    "main.e6c13ad2.css.map": "/culinary-app/static/css/main.e6c13ad2.css.map",
+    "main.b36a4980.js.map": "/culinary-app/static/js/main.b36a4980.js.map",
+    "787.5a06f92f.chunk.js.map": "/culinary-app/static/js/787.5a06f92f.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.b36a4980.js"
+  ]
+}
